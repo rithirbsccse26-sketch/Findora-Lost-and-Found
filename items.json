@@ -1,0 +1,38 @@
+[
+    {
+        "id": "demo1",
+        "title": "Black wireless earbud case",
+        "type": "Lost",
+        "category": "Electronics",
+        "location": "College library",
+        "description": "A small black case, possibly left near the reading tables. Please contact me if you have seen it.",
+        "image": "",
+        "posted_by": "SampleUser",
+        "date": "18 Nov 2026",
+        "status": "Open"
+    },
+    {
+        "id": "demo2",
+        "title": "Olive green tote bag",
+        "type": "Found",
+        "category": "Bags",
+        "location": "Cafeteria entrance",
+        "description": "Found an olive green canvas tote bag. Please message with a description to identify it.",
+        "image": "",
+        "posted_by": "CampusHelper",
+        "date": "19 Nov 2026",
+        "status": "Open"
+    },
+    {
+        "id": "demo3",
+        "title": "Silver keychain",
+        "type": "Lost",
+        "category": "Accessories",
+        "location": "Main auditorium",
+        "description": "A silver keychain with two small keys. It may have fallen near the auditorium seats.",
+        "image": "",
+        "posted_by": "Aarav",
+        "date": "19 Nov 2026",
+        "status": "Open"
+    }
+]
