@@ -20,6 +20,7 @@ Features
 - Saved items
 - My Reports
 - Mark items as Returned
+
 How to Run
 1. Install XAMPP.
 2. Copy the project folder into htdocs.
